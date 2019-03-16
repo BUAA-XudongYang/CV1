@@ -121,6 +121,8 @@ hr {
 
 
 body {
+    background-color: rgb(119, 136, 153);
+    background-size:cover;
     font-family: sans-serif, Microsoft Yahei, Helvetica Neue;
     zoom: 80%;
 }
