@@ -222,7 +222,7 @@ progress::-moz-progress-value {
 }
 
 .main {
-    
+    background-color: white;
     position: relative;;
     min-height: 100%;
     padding: 20px;
